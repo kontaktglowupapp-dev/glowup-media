@@ -1,0 +1,67 @@
+[
+ {
+  "network": "tiktok",
+  "time": "2026-11-02T10:05:00",
+  "dir": "tiktok/2026-11-02_1",
+  "media": [
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_1/01.jpg",
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_1/02.jpg",
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_1/03.jpg",
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_1/04.jpg",
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_1/05.jpg",
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_1/06.jpg"
+  ],
+  "text": "POV: masz tylko 15 minut na siebie\ni tak się liczy\nile masz dziś czasu dla siebie?\nplan: GlowUp PL (link w bio)\nKONKURS na IG @glowup._pl: 10 kreatyn, 10 paczek białka i roczny dostęp do apki\n\n#glowup #glowuppl #dlaciebie #fyp #aplikacja #nawyki #produktywnosc #pov",
+  "title": "POV: masz tylko 15 minut na siebie",
+  "code": "APP_MASZ_TYLKO_15_MINUT"
+ },
+ {
+  "network": "tiktok",
+  "time": "2026-11-02T18:05:00",
+  "dir": "tiktok/2026-11-02_2",
+  "media": [
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_2/01.jpg",
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_2/02.jpg",
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_2/03.jpg",
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_2/04.jpg",
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_2/05.jpg",
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/tiktok/2026-11-02_2/06.jpg"
+  ],
+  "text": "Apka, która układa ci jedzenie i listę zakupów\nkoniec z „co ja mam zjeść”\nco dziś jadłeś na obiad?\nplan: GlowUp PL (link w bio)\nKONKURS na IG @glowup._pl: 10 kreatyn, 10 paczek białka i roczny dostęp do apki\n\n#glowup #glowuppl #dlaciebie #fyp #dieta #aplikacja #bialko #przepisy",
+  "title": "Apka, która układa ci jedzenie i listę zakupów",
+  "code": "APP_DIETA_I_LISTA_ZAKUPOW"
+ },
+ {
+  "network": "instagram",
+  "time": "2026-11-02T10:20:00",
+  "dir": "instagram/2026-11-02_1",
+  "media": [
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/instagram/2026-11-02_1/reel.mp4"
+  ],
+  "text": "Nawyki, które w 30 dni zmienią twoją twarz\nnumer 3 robi największą różnicę\nktóry zaczynasz od jutra?\nplan: GlowUp PL (link w bio)\nKONKURS na IG @glowup._pl: 10 kreatyn, 10 paczek białka i roczny dostęp do apki\n\n#glowup #glowuppl #dlaciebie #fyp #twarz #nawyki #pielegnacja #zmiana",
+  "title": "Nawyki, które w 30 dni zmienią twoją twarz",
+  "code": "IG_NAWYKI_30_DNI_TWARZ"
+ },
+ {
+  "network": "instagram",
+  "time": "2026-11-02T13:30:00",
+  "dir": "instagram/2026-11-02_2",
+  "media": [
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/instagram/2026-11-02_2/reel.mp4"
+  ],
+  "text": "Czemu zawsze wyglądam na wypoczętą?\nzero magii\nco z tego robisz?\nplan: GlowUp PL (link w bio)\nKONKURS na IG @glowup._pl: 10 kreatyn, 10 paczek białka i roczny dostęp do apki\n\n#glowup #glowuppl #dlaciebie #fyp #cera #wlosy #energia #nawyki",
+  "title": "Czemu zawsze wyglądam na wypoczętą?",
+  "code": "IG_CZEMU_CZYSTA_CERA_WLOSY_ENERGIA"
+ },
+ {
+  "network": "instagram",
+  "time": "2026-11-02T18:30:00",
+  "dir": "instagram/2026-11-02_3",
+  "media": [
+   "https://raw.githubusercontent.com/kontaktglowupapp-dev/glowup-media/main/instagram/2026-11-02_3/reel.mp4"
+  ],
+  "text": "5 rzeczy, które robisz wieczorem, a rano masz przez nie gorszą twarz\nnumer 1 to prawie każdy\nco z tego robisz?\nplan: GlowUp PL (link w bio)\nKONKURS na IG @glowup._pl: 10 kreatyn, 10 paczek białka i roczny dostęp do apki\n\n#glowup #glowuppl #dlaciebie #fyp #wieczor #rutyna #cera #sen",
+  "title": "5 rzeczy, które robisz wieczorem, a rano masz przez nie gorszą twarz",
+  "code": "IG_5_RZECZY_WIECZOREM_PSUJA_TWARZ"
+ }
+]
